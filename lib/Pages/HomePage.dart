@@ -113,7 +113,6 @@ class _HomePageState extends State<HomePage> {
                           list: funList,
                           playSound: play,
                         ),
-
                         CategoryList(
                           title: 'CenkErdem',
                           list: cenkErdemList,
