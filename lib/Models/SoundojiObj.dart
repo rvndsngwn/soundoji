@@ -1,4 +1,3 @@
-
 class SoundojiObj {
   String iconPath;
   String soundPath;
@@ -73,8 +72,6 @@ class SoundojiObj {
         category: 'Funny',
         soundPath: 'sounds/kiss.mp3',
         iconPath: 'assets/images/kiss.png'),
-
-
     SoundojiObj(
         name: 'cow',
         category: 'Animals',
@@ -375,8 +372,6 @@ class SoundojiObj {
         category: 'Animals',
         soundPath: 'sounds/zebra.mp3',
         iconPath: 'assets/images/zebra.png'),
-
-
     SoundojiObj(
         name: 'car',
         category: 'Vehicles',
@@ -402,9 +397,6 @@ class SoundojiObj {
         category: 'Vehicles',
         soundPath: 'sounds/rocket.mp3',
         iconPath: 'assets/images/rocket.png'),
-
-
-
     SoundojiObj(
         name: 'deranzo',
         category: 'CenkErdem',
