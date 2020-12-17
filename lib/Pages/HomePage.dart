@@ -6,6 +6,7 @@ import 'package:soundoji/Components/SoundojiLogo.dart';
 import 'package:soundoji/Constants/UIColors.dart';
 import 'package:soundoji/Models/SoundojiObj.dart';
 
+
 class HomePage extends StatefulWidget {
   const HomePage({
     Key key,
@@ -118,6 +119,7 @@ class _HomePageState extends State<HomePage> {
                           list: cenkErdemList,
                           playSound: play,
                         ),
+
                       ],
                     ),
                   ),

@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:soundoji/Constants/UIColors.dart';
 import 'package:soundoji/Pages/AboutPage.dart';
 import 'LogoTitle.dart';
+import 'package:soundoji/Pages/speech_home.dart';
+
 
 class SoundojiBar extends StatelessWidget implements PreferredSizeWidget {
   final double height;
@@ -50,7 +52,7 @@ class SoundojiBar extends StatelessWidget implements PreferredSizeWidget {
                     child: InkWell(
                       onTap: (){
                         Navigator.of(context).push(
-                          MaterialPageRoute(builder: (context) => AboutPage(),),
+                          MaterialPageRoute(builder: (context) => MyApp(),),
                         );
                       },
                       child: Image.asset('assets/images/about.png',width: 45,)

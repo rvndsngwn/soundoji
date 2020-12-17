@@ -5,6 +5,7 @@ INJECTED from C:\Users\arvin\StudioProjects\soundoji\android\app\src\main\Androi
 INJECTED from C:\Users\arvin\StudioProjects\soundoji\android\app\src\main\AndroidManifest.xml:1:1-47:12
 INJECTED from C:\Users\arvin\StudioProjects\soundoji\android\app\src\main\AndroidManifest.xml:1:1-47:12
 MERGED from C:\Users\arvin\StudioProjects\soundoji\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from [:flutter_tts] C:\Users\arvin\StudioProjects\soundoji\build\flutter_tts\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:url_launcher] C:\Users\arvin\StudioProjects\soundoji\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
 MERGED from [:audioplayers] C:\Users\arvin\StudioProjects\soundoji\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:path_provider] C:\Users\arvin\StudioProjects\soundoji\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
@@ -101,6 +102,8 @@ uses-sdk
 INJECTED from C:\Users\arvin\StudioProjects\soundoji\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\arvin\StudioProjects\soundoji\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\arvin\StudioProjects\soundoji\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_tts] C:\Users\arvin\StudioProjects\soundoji\build\flutter_tts\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_tts] C:\Users\arvin\StudioProjects\soundoji\build\flutter_tts\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:url_launcher] C:\Users\arvin\StudioProjects\soundoji\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:url_launcher] C:\Users\arvin\StudioProjects\soundoji\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:audioplayers] C:\Users\arvin\StudioProjects\soundoji\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
